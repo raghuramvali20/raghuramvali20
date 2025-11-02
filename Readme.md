@@ -93,8 +93,8 @@ I enjoy transforming ideas into real-world applications that are efficient, user
 ## Let's Connect!
 
 - 🌐 *LinkedIn:* [Mohana Raghu Rami Reddy Vali](https://www.linkedin.com/in/mohana-raghu-rami-reddy-vali)  
-- 💻 *GitHub:* [github.com/your-github-username](https://github.com/raghuramvali20)  
-- ✉ *Email:* mohanaraghuvali@gmail.com (or your preferred contact mail)  
+- 💻 *GitHub:* [github.com/raghuramvali20](https://github.com/raghuramvali20)  
+- ✉ *Email:*(raghuramvali4@gmail.com) 
 - 📍 Guntur, India  
 
 ---
